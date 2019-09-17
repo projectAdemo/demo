@@ -1,6 +1,6 @@
 ﻿User Agent 清單,搜尋引擎,關鍵字,目標網址,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,連結網址清單,網站內連結等候秒數,換 IP 後等待秒數
 https://projectademo.github.io/demo/demo_ua.txt,G,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
-https://projectademo.github.io/demo/demo_uak.txt,B,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
+https://projectademo.github.io/demo/demo_ua.txt,B,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
 https://projectademo.github.io/demo/demo_ua.txt,Y,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
 https://projectademo.github.io/demo/demo_ua.txt,G,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
 https://projectademo.github.io/demo/demo_ua.txt,B,山角洲,https://outdoors.homia.com.tw/,5,5~7,1,1~2,https://projectademo.github.io/demo/demo_link.txt,50~60,6
