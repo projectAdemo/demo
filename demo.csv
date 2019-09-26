@@ -1,4 +1,5 @@
 ﻿User Agent 清單,搜尋引擎,關鍵字,目標網址,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,連結網址清單,網站內連結等候秒數,換 IP 後等待秒數
+https://projectademo.github.io/demo/demo_ua.txt,G,餐飲設備,mke.com.tw,3,2~3,2,3~4,https://projectademo.github.io/demo/mke1-url.txt,3~5,10
 https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,bh-shiatsu.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
 https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,osim.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
 https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,efuji.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
