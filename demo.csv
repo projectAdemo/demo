@@ -1,13 +1,13 @@
 ﻿User Agent 清單,搜尋引擎,關鍵字,目標網址,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,連結網址清單,網站內連結等候秒數,換 IP 後等待秒數
-https://projectademo.github.io/demo/demo_ua.txt,y,真空袋工廠,http://www.liyu-gravure.com.tw,3,12~18,2,2~4,https://projectademo.github.io/demo/liyu1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,真空袋,http://www.liyu-gravure.com.tw/,3,12~18,2,2~4,https://projectademo.github.io/demo/liyu1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,y,真空袋,http://www.liyu-gravure.com.tw/,3,12~18,2,2~4,https://projectademo.github.io/demo/liyu1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,g,家電特賣,ushop10139.hiwinner.tw,3,12~18,2,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,家電特賣,http://www.fuyi9438.com,3,12~18,2,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,y,家電特賣,http://www.fuyi9438.com,3,12~18,2,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,餐飲設備,http://www.mke.com.tw/,3,12~18,2,2~4,https://projectademo.github.io/demo/mke1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,廚房設備,http://www.mke.com.tw/,3,12~18,2,2~4,https://projectademo.github.io/demo/mke2-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,Y,餐飲設備,http://www.mke.com.tw/,3,12~18,2,2~4,https://projectademo.github.io/demo/mke1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,綠建材,http://www.efcl.com.tw,3,12~18,2,2~4,https://projectademo.github.io/demo/efcl1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,b,綠建材入口網站,http://www.efcl.com.tw,3,12~18,2,2~4,https://projectademo.github.io/demo/efcl1-url.txt,30~45,10
-https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材,http://www.efcl.com.tw,3,12~18,2,2~4,https://projectademo.github.io/demo/efcl1-url.txt,30~45,10
+https://projectademo.github.io/demo/demo_ua.txt,y,真空袋工廠,http://www.liyu-gravure.com.tw,3,12~18,3,2~4,https://projectademo.github.io/demo/liyu1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,真空袋,http://www.liyu-gravure.com.tw/,3,12~18,3,2~4,https://projectademo.github.io/demo/liyu1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,y,真空袋,http://www.liyu-gravure.com.tw/,3,12~18,3,2~4,https://projectademo.github.io/demo/liyu1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,g,家電特賣,http://ushop10139.hiwinner.tw,3,12~18,3,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,家電特賣,http://www.fuyi9438.com,3,12~18,3,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,y,家電特賣,http://www.fuyi9438.com,3,12~18,3,2~4,https://projectademo.github.io/demo/fuyi1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,餐飲設備,http://www.mke.com.tw/,3,12~18,3,2~4,https://projectademo.github.io/demo/mke1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,廚房設備,http://www.mke.com.tw/,3,12~18,3,2~4,https://projectademo.github.io/demo/mke2-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,Y,餐飲設備,http://www.mke.com.tw/,3,12~18,3,2~4,https://projectademo.github.io/demo/mke1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,綠建材,http://www.efcl.com.tw,3,12~18,3,2~4,https://projectademo.github.io/demo/efcl1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,b,綠建材入口網站,http://www.efcl.com.tw,3,12~18,3,2~4,https://projectademo.github.io/demo/efcl1-url.txt,15~25,10
+https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材,http://www.efcl.com.tw,3,12~18,3,2~4,https://projectademo.github.io/demo/efcl1-url.txt,15~25,10
