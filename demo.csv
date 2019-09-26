@@ -1,6 +1,7 @@
 ﻿User Agent 清單,搜尋引擎,關鍵字,目標網址,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,連結網址清單,網站內連結等候秒數,換 IP 後等待秒數
-https://projectademo.github.io/demo/demo_ua.txt,G,茂詮餐飲設備,網站,3,2~3,2,3~4,https://projectademo.github.io/demo/mke1-url.txt,3~5,10
-https://projectademo.github.io/demo/demo_ua.txt,G,植髮家,網站,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
-https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,osim.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
-https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,efuji.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
-https://projectademo.github.io/demo/demo_ua.txt,G,按摩椅,takasima.com,2,2~3,2,1~2,https://projectademo.github.io/demo/top-ortho-url.txt,3~5,10
+https://projectademo.github.io/demo/demo_ua.txt,G,餐飲設備,mke.com.tw,4,5~8,3,2~3,https://projectademo.github.io/demo/mke1-url.txt,10~20,10
+https://projectademo.github.io/demo/demo_ua.txt,G,植髮,newhair.com.tw,4,5~8,3,2~3,https://projectademo.github.io/demo/newhair-url.txt,10~20,10
+https://projectademo.github.io/demo/demo_ua.txt,G,綠建材,efcl.com.tw,3,5~8,3,2~3,https://projectademo.github.io/demo/efcl1-url.txt,10~20,10
+https://projectademo.github.io/demo/demo_ua.txt,Y,餐飲設備,mke.com.tw,4,5~8,3,2~3,https://projectademo.github.io/demo/mke1-url.txt,10~20,10
+https://projectademo.github.io/demo/demo_ua.txt,Y,植髮,newhair.com.tw,4,5~8,3,2~3,https://projectademo.github.io/demo/newhair-url.txt,10~20,10
+https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材,efcl.com.tw,3,5~8,3,2~3,https://projectademo.github.io/demo/efcl1-url.txt,10~20,10
