@@ -1,4 +1,4 @@
 ﻿User Agent 清單,YYY,KWW,URL,結果頁數上限,結果頁停留秒數,結果頁捲動回數,目標網站開頁面數量,連結網址清單,網站內連結等候秒數,換 IP 後等待秒數
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,http://www.top-ortho.tw/ec99/ushop1160/headLineContext.asp?newsno=2,2,5~5,2,4~5,https://projectademo.github.io/demo/top-ortho-url.txt,44~55,11
-https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://www.medpartner.club/hair-transplant-introduction/,2,5~5,2,5~8,https://projectademo.github.io/demo/newhair-url.txt,33~55,11
-https://projectademo.github.io/demo/demo_ua.txt,g,惠心產後護理之家,http://www.eugenepncc.com/,2,5~5,2,5~8,https://projectademo.github.io/demo/efcl1-url.txt,33~55,11
+https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,www.top-ortho.tw,2,5~5,2,4~5,https://projectademo.github.io/demo/top-ortho-url.txt,44~55,11
+https://projectademo.github.io/demo/demo_ua.txt,G,植髮,www.medpartner.club/hair-transplant-introduction/,2,5~5,2,5~8,https://projectademo.github.io/demo/newhair-url.txt,33~55,11
+https://projectademo.github.io/demo/demo_ua.txt,G,惠心產後護理之家,http://www.eugenepncc.com/,2,5~5,2,5~8,https://projectademo.github.io/demo/efcl1-url.txt,33~55,11
