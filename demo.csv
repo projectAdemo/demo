@@ -1,11 +1,11 @@
-﻿AAA,BBB,CCC,DDD,MAX PG#,STAY,SCROLL,PG#,III,wiat PG,WAIT,CHANGE,RBT
-https://projectademo.github.io/demo/demo_ua.txt,B,真空袋,liyu-gravure.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/liyu1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,牛排館,apointsteak.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/apoint1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,綠建材,efcl.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/efcl1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,真空袋工廠,liyu-gravure.com.tw,2,5~6,3~4,5~8,https://projectademo.github.io/demo/liyu1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材,efcl.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/efcl1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,台北牛排館,apointsteak.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/apoint1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材入口,efcl.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/efcl1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,牛排館,apointsteak.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/apoint1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,綠建材入口,efcl.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/efcl1-url.txt,5~8,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,真空袋,liyu-gravure.com.tw,2,3~4,3~4,5~8,https://projectademo.github.io/demo/liyu1-url.txt,5~8,11,Y,N
+﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
+https://projectademo.github.io/demo/demo_ua.txt,Y,牛排館,apointsteak.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/apoint-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,台北牛排館,apointsteak.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/apoint-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,真空袋,liyu-gravure.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/liyu-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,真空袋工廠,liyu-gravure.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/liyu-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材,efcl.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/efcl-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,綠建材入口,efcl.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/efcl-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,植髮,newhair.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/newhair-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,冷氣空調,toongshuay.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/tongl-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,空調工程,toongshuay.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/tong-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,系統家具,merryann.com.tw,3,12~18,3~4,3~4,https://projectademo.github.io/demo/merryann-url.txt,22~33,22,Y,N
