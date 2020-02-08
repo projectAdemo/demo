@@ -1,4 +1,3 @@
-http://www.toongshuay.com.tw
 http://www.toongshuay.com.tw/ec99/rwd1313/Profile.asp
 http://www.toongshuay.com.tw/ec99/rwd1313/category.asp?category_id=19
 http://www.toongshuay.com.tw/ec99/rwd1313/category.asp?category_id=20
@@ -8,4 +7,3 @@ http://www.toongshuay.com.tw/ec99/rwd1313/category.asp?category_id=21
 http://www.toongshuay.com.tw/ec99/rwd1313/category.asp?category_id=22
 http://www.toongshuay.com.tw/ec99/rwd1313/product.asp?prodid=0822-01&category_id=21&cty_id=21
 http://www.toongshuay.com.tw/ec99/rwd1313/product.asp?prodid=002&category_id=21&cty_id=21
-http://www.toongshuay.com.tw/ec99/rwd1313/product.asp?prodid=001&category_id=21&cty_id=21
