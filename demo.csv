@@ -1,9 +1,9 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
-https://projectademo.github.io/demo/demo_ua.txt,Y,三花襪子開箱,pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/851015-url.txt,22~33,22,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,https://weio851015.pixnet.net/blog/post/404142647-%5B%E5%A5%BD%E8%A5%AA%E6%8E%A8%E8%96%A6%5D-%E8%A5%AA%E5%AD%90%E9%A6%96%E9%81%B8%E4%B8%89%E8%8A%B1%E8%A5%AA%E5%AD%90%E8%B6%85%E9%80%8F%E6%B0%A3%E5%90%B8%E6%B1%97%E4%B8%8D%E6%82%B6,3,8~12,1~2,2~3,https://projectademo.github.io/demo/851015-url.txt,22~33,22,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,https://missrachelnina.pixnet.net/blog/post/350731579-%E7%94%9F%E6%B4%BB%E2%94%82%E4%B8%89%E8%8A%B1%E6%A3%89%E6%A5%AD-sun-flower-%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%B4%B0%E7%AF%80-%E4%B8%89,3,8~12,1~2,2~3,https://projectademo.github.io/demo/nina-url.txt,22~33,22,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,https://z78625.pixnet.net/blog/post/228047288-%E8%A5%AA%E5%AD%90%E9%AB%94%E9%A9%97%E9%96%8B%E7%AE%B1%E6%96%87%E3%80%8E%E4%B8%89%E8%8A%B1%E6%A3%89%E6%A5%ADsunflower%E3%80%8F%E7%94%B7%E5%A5%B3%E9%81%A9%E7%94%A8,3,8~12,1~2,2~3,https://projectademo.github.io/demo/78625.txt,22~33,22,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,https://s045488.pixnet.net/blog/post/468079430-%E4%B8%89%E8%8A%B1%E6%A3%89%E6%A5%ADsunflower%E3%80%8B%E5%8F%B0%E7%81%A3%E8%A5%AA%E5%AD%90%E5%A4%A7%E7%8E%8B%2C%E8%80%90%E6%B4%97%E8%80%90%E7%A9%BF%2C%E5%B0%88,3,8~12,1~2,2~3,https://projectademo.github.io/demo/045488-url.txt,22~33,22,Y,N
+,,,,,,,,,,,,
+https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,weio851015.pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/851015-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,missrachelnina.pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/nina-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,z78625.pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/78625.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三花襪子,s045488.pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/045488-url.txt,22~33,22,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮價錢,newhair.com.tw,3,8~12,1~2,2~3,https://projectademo.github.io/demo/newhair-url.txt,22~33,22,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,B,SF sunflower,sf.com.tw,3,8~12,1~2,2~3,https://projectademo.github.io/demo/sf-url.txt,22~33,22,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,植髮Q&A,newhair.com.tw,3,8~12,1~2,2~3,https://projectademo.github.io/demo/newhair-url.txt,22~33,22,Y,N
@@ -12,3 +12,4 @@ https://projectademo.github.io/demo/demo_ua.txt,B,SF sunflower,sf.com.tw,3,8~12,
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮Q&A,newhair.com.tw,3,8~12,1~2,2~3,https://projectademo.github.io/demo/newhair-url.txt,22~33,22,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮Q&A,newhair.com.tw,3,8~12,1~2,2~3,https://projectademo.github.io/demo/newhair-url.txt,22~33,22,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,Y,SF sunflower,https://www.sf.com.tw/,3,8~12,1~2,2~3,https://projectademo.github.io/demo/sf-url.txt,22~33,22,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,三花襪子開箱,pixnet.net,3,8~12,1~2,2~3,https://projectademo.github.io/demo/851015-url.txt,22~33,22,Y,N
