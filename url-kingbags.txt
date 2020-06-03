@@ -1,5 +1,6 @@
 http://www.kingbags.com.tw/product.php?type=10000/10011
-http://www.kingbags.com.tw/product_text.php?gid=177&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
-http://www.kingbags.com.tw/product_text.php?gid=176&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
-http://www.kingbags.com.tw/product_text.php?gid=175&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
-http://www.kingbags.com.tw/product_text.php?gid=164&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
+http://www.kingbags.com.tw/product.php?type=10000/10032&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
+http://www.kingbags.com.tw/product.php?type=10000/10031&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
+http://www.kingbags.com.tw/product.php?type=10000/10030&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
+http://www.kingbags.com.tw/product.php?type=10000/10029&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
+http://www.kingbags.com.tw/product.php?type=10000/10025&PHPSESSID=64f49b894bb993a05cb30c56c7928ab4
