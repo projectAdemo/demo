@@ -1,5 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服工作服,http://www.shinkong-co.com.tw/ec99/rwd1341/category.asp?category_id=6,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-shinkong .txt,22~33,33,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服工作服,http://www.shinkong-co.com.tw/ec99/rwd1341/category.asp?category_id=6,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-shinkong.txt,22~33,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,內衣極爽,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-sf.txt,22~33,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,短袖內衣,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-sf.txt,22~33,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣空調工程公司,http://www.toongshuay.com.tw/,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-toong.txt,22~33,33,Y,N
