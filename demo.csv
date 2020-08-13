@@ -1,5 +1,4 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
-https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://www.upmedia.mg/news_info.php?SerialNo=90480,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-upmedia.txt,22~33,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,內衣,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,內衣極爽,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18888,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
@@ -76,3 +75,4 @@ https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://health.gvm.com.
 https://projectademo.github.io/demo/iphone_ua.txt,G,支票借款,https://ghcheckloan.com/check/,1,8~12,3~4,5~8,https://projectademo.github.io/demo/url-7722.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/iphone_ua.txt,G,支票借款,https://ghcheckloan.com/check/,1,8~12,3~4,5~8,https://projectademo.github.io/demo/url-7722.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://health.gvm.com.tw/article/73645,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-gvm.txt,33~44,33,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://www.upmedia.mg/news_info.php?SerialNo=90480,2,8~12,2~3,3~4,https://projectademo.github.io/demo/url-upmedia.txt,22~33,33,Y,N
