@@ -1,5 +1,7 @@
 https://www.upmedia.mg/news_list.php?Type=2
 https://www.upmedia.mg/news_list.php?Type=3
-https://www.upmedia.mg/news_list.php?Type=4
+https://www.upmedia.mg/news_list.php?Type=5
+https://www.upmedia.mg/news_list.php?Type=12
 https://www.upmedia.mg/news_list.php?Type=24
 https://www.upmedia.mg/news_list.php?Type=196
+https://www.upmedia.mg/news_list.php?Type=82
