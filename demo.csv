@@ -1,15 +1,15 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://24h.pchome.com.tw/region/DICG,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-pchome.txt,33~44,33,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.mall.yahoo.com/%E5%A5%B3%E8%A5%AA-%E8%A5%AA%E5%AD%90-152982008-category.html,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.buy.yahoo.com/?sub=769,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://24h.pchome.com.tw/region/DICG,2,8~12,3~4,2~3,https://projectademo.github.io/demo/url-pchome.txt,33~44,33,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.mall.yahoo.com/%E5%A5%B3%E8%A5%AA-%E8%A5%AA%E5%AD%90-152982008-category.html,2,8~12,3~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.buy.yahoo.com/?sub=769,2,8~12,3~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.dcard.tw/f/weight_loss/p/231834856,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-dcard.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.dcard.tw/f/weight_loss/p/231834856,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-dcard.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.vitality-up.com.tw/ec99/rwd1209/category.asp?category_id=6,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-fat.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://dpt.cch.org.tw/layout/layout_1/about.aspx?Key=58&ID=7338,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-fat.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.uni-sense.com/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-uni-sense.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.yamoney.tw/index.html,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-yamoney.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://dpt.cch.org.tw/layout/layout_1/about.aspx?Key=58&ID=7338,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-fat.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.uni-sense.com/,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-uni-sense.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.yamoney.tw/index.html,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-yamoney.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.shinkong-co.com.tw/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.ti88.com.tw/p1-1.html,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-ti88.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.ti88.com.tw/p1-1.html,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-ti88.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,sunflower sf,https://www.sf.com.tw/mobile,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,In Vitro Fertilization 醫院,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,ivf生殖中心 ,https://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
