@@ -1,35 +1,24 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://24h.pchome.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-gvm.txt,33~44,33,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.etmall.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://shopee.tw/search/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內衣全棉柔軟,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,短袖內衣,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://www.bjp.com.tw/service_detail_32.htm,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-bjp.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=3888,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,棉柔軟內衣,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,短袖全棉,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=18,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,sunflower,https://www.sf.com.tw/mobile/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲空氣感,https://www.sf.com.tw/mobile/product-list.aspx?pid=3,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=3888,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲清爽,https://www.sf.com.tw/product-list.aspx?pid=3,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,In Vitro Fertilization 醫院,http://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲空氣感,https://www.sf.com.tw/mobile/product-list.aspx?pid=3,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.sf.com.tw/mobile/product-list.aspx?pid=15&cid=3888,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,B,內褲清爽,https://www.sf.com.tw/product-list.aspx?pid=3,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,ivf生殖中心,http://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://24h.pchome.com.tw/region/DICG,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-pchome.txt,33~44,33,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.mall.yahoo.com/%E5%A5%B3%E8%A5%AA-%E8%A5%AA%E5%AD%90-152982008-category.html,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.buy.yahoo.com/?sub=769,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.dcard.tw/f/weight_loss/p/231834856,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-dcard.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.vitality-up.com.tw/ec99/rwd1209/category.asp?category_id=6,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-fat.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://dpt.cch.org.tw/layout/layout_1/about.aspx?Key=58&ID=7338,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-fat.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.uni-sense.com/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-uni-sense.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.yamoney.tw/index.html,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-yamoney.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.shinkong-co.com.tw/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.ti88.com.tw/p1-1.html,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-ti88.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,sunflower sf,https://www.sf.com.tw/mobile,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,In Vitro Fertilization 醫院,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,ivf生殖中心 ,https://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,SF sunflower,https://www.sf.com.tw/mobile/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲,https://www.sfffff.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內衣,https://www.sfffff.com.tw/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://a-sir.ezcare.com.tw/artas.html,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sir.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,植髮,https://www.zlclinic.com.tw/article.php?lang=tw&tb=2,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-zlclinic.txt,33~44,38,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,http://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,http://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,B,庫存區庫存區庫存區庫存區,http://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,B,庫存區庫存區庫存區庫存區,http://www.asapp.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,B,超耐磨地板,http://haroflooring.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-haro.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,B,孕醫生殖中心,http://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,支票借款汽車,https://www.25947722.com.tw/ec99/rwd1211/category.asp?category_id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-7722.txt,33~44,38,Y,N
