@@ -1,5 +1,0 @@
-http://ge-sen.com.tw/products_list.php?idept=2
-http://ge-sen.com.tw/products_con.php?idept=2&pk=144&page=
-http://ge-sen.com.tw/products_con.php?idept=2&pk=139&page=
-http://ge-sen.com.tw/products_con.php?idept=2&pk=117&page=
-http://ge-sen.com.tw/
