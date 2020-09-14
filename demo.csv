@@ -1,11 +1,11 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.uniqlo.com/tw/store/feature/men/inner/socks/,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-uniqlo.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/mobile/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.obdesign.com.tw/inpage.aspx?no=109538,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://kawatata.91app.com/,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.marcella.com.tw/product/83,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,http://www.2468.com.tw/,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-sf.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://find.ruten.com.tw/c/00140015,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-ruten-sock.txt,33~44,33,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.uniqlo.com/tw/store/feature/men/inner/socks/,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-uniqlo.txt,33~44,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.queenshop.com.tw/zh-TW/QueenShop/ProductList?item1=01&item2=ass&item3=3,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-queenshop.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.books.com.tw/web/fashion_topm_14,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-books.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/mobile/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-sf.txt,33~44,38,Y,N
