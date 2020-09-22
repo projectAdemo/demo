@@ -1,7 +1,7 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,結束後重開機,編號,"亂數公式 =RANDBETWEEN(1,40)"
 https://projectademo.github.io/demo/demo_ua.txt,G,ivf生殖中心 ,https://www.brcivf.com/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,2,1
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,xxxhttps://www.shinkong-co.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N,18,2
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,http://www.2468.com.tw/,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,28,29
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,xxxxhttp://www.2468.com.tw/,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,28,29
 https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.chinatimes.com/fashion/20200302000006-263902?chdtv,3,8~12,3~4,2~3,https://projectademo.github.io/demo/url-chinatimes.txt,33~44,38,Y,N,7,34
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,xxxhttps://www.yamoney.tw/index.html,2,8~12,2~4,1~2,https://projectademo.github.io/demo/url-yamoney.txt,33~44,38,Y,N,19,23
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.yuanysang.com.tw/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,15,10
@@ -25,7 +25,7 @@ https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.sf.com.tw/m
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒ivf,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,25,31
 https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重,https://www.vitality-up.com.tw/ec99/rwd1209/category.asp?category_id=6,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-vital.txt,33~44,38,Y,N,8,6
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子極柔,xxxxxhttps://www.ahuaruok.com/v2/official/SalePageCategory/311812?sortMode=Sales,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-books.txt,33~44,38,Y,N,23,12
-https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.obdesign.com.tw/inpage.aspx?no=109538,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,29,15
+https://projectademo.github.io/demo/demo_ua.txt,G,襪子,xxxhttps://www.obdesign.com.tw/inpage.aspx?no=109538,1,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,29,15
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://find.ruten.com.tw/c/00140015,2,8~12,2~4,2~3,https://projectademo.github.io/demo/url-ruten-sock.txt,33~44,33,Y,N,33,40
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,http://www.oud.com.tw/,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,16,27
 https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,21,26
