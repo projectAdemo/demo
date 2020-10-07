@@ -1,4 +1,4 @@
-﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot,xxxxx,亂數公式,50
+﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot,xxxxx,亂數公式,"xxxx=RANDBETWEEN(11,77)"
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款,https://www.lan1155.com.tw/index.html,6,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,69,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.mall.yahoo.com/%E5%A5%B3%E8%A5%AA-%E8%A5%AA%E5%AD%90-152982008-category.html,5,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,16,,
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒ivf,http://www.kmuh.org.tw/www/kmcj/data/8605/3344a.htm,4,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,73,,
@@ -17,13 +17,13 @@ https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.liti.
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.660880.com.tw/ec99/rwd1136/category.asp?category_id=662,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-660880.txt,33~44,38,Y,N,39,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://shop.skechers-twn.com/v2/official/SalePageCategory/224640?sortMode=Curator,5,8~12,2~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,47,,
 https://projectademo.github.io/demo/demo_ua.txt,G,孕醫生殖中心,https://www.brcivf.com,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,59,,
-https://projectademo.github.io/demo/demo_ua.txt,G,綠建材永逢,http://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,23,,
+https://projectademo.github.io/demo/demo_ua.txt,G,歐洲綠建材,http://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-efcl.txt,33~44,38,Y,N,23,,
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.lieda.com.tw/g.html,5,8~12,2~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,34,,
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒ivf ,https://www1.cgmh.org.tw/intr/intr1/c1750/0703.%E8%A9%A6%E7%AE%A1%E5%AC%B0%E5%85%92%E8%83%9A%E8%83%8E%E6%A4%8D%E5%85%A5.htm,4,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,29,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://online.carrefour.com.tw/tw/%E8%A5%AA%E5%AD%90,5,8~12,2~4,2~3,https://projectademo.github.io/demo/url-c4.txt,33~44,33,Y,N,76,,
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款,https://www.29085511.com/edcontent.php?lang=tw&tb=2,6,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,55,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://100mountain.com/product_list.php?cid=3872&title=%E8%A5%AA%E5%AD%90,5,8~12,2~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,53,,
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.hdl.com.tw/,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,56,,"xxxx=RANDBETWEEN(11,77)"
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.hdl.com.tw/,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,56,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.tomotomo.com.tw/plist/146,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,67,,
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款,https://95money.com.tw/news-1136.html,6,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,55,,
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款,https://check.apds.com.tw/,6,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,57,,
@@ -46,4 +46,4 @@ https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.mr-su
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,xxxhttps://www.sf.com.tw/mobile/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,72,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,xxxhttps://www.sf.com.tw/mobile/product-list-eventn.aspx?id=1,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,42,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://www.nuvfashion.com/zh-TW/Net/productlist?item1=01&item2=0106&item3=010607,5,8~12,2~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,21,,
-https://projectademo.github.io/demo/demo_ua.txt,G,綠建材入口,http://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,Y,76,,
+https://projectademo.github.io/demo/demo_ua.txt,G,綠建材入口,http://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-efcl.txt,33~44,38,Y,Y,76,,
