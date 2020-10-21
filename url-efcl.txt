@@ -1,8 +1,8 @@
-http://www.efcl.com.tw/
-http://www.efcl.com.tw/ec99/rwd1230/Profile.asp
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=9
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?Xcategory_id=1&category_id=7
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=14
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=10
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=15
-http://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=23
+https://www.efcl.com.tw/
+https://www.efcl.com.tw/ec99/rwd1230/Profile.asp
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=9
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?Xcategory_id=1&category_id=7
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=14
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=10
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=15
+https://www.efcl.com.tw/ec99/rwd1230/Category.asp?category_id=23
