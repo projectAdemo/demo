@@ -1,20 +1,7 @@
-Mozilla/5.0 (Linux; Android 8.1.0; V1818T Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/8.4.14.0
-Mozilla/5.0 (Linux; Android 8.1.0; V1818T Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/8.4.14.0
-Mozilla/5.0 (Linux; Android 10; AQM-AL00 Build/HUAWEIAQM-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.2 SP-engine/2.24.0 baiduboxapp/12.2.0.12 (Baidu; P1 10) NABar/1.0
-Mozilla/5.0 (Linux; U; Android 10; zh-CN; CDY-TN00 Build/HUAWEICDY-TN00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.1.4.1094 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; GLK-AL00 Build/HUAWEIGLK-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.2 SP-engine/2.24.0 baiduboxapp/12.2.0.12 (Baidu; P1 10) NABar/1.0
-Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; OPPO R11 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/10.7.10.1
-Mozilla/5.0 (Linux; U; Android 10; zh-cn; PDYM20 Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/40.7.10.1
-Mozilla/5.0 (Linux; Android 8.0.0; VIE-AL10 Build/HUAWEIVIE-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.1 SP-engine/2.24.0 baiduboxapp/12.1.0.10 (Baidu; P1 8.0.0) NABar/1.0
-Mozilla/5.0 (Linux; Android 8.0.0; AUM-AL00 Build/HONORAUM-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/11.26 SP-engine/2.22.0 baiduboxapp/11.26.5.10 (Baidu; P1 8.0.0) NABar/1.0
-Mozilla/5.0 (Linux; Android 10; LIO-AN00 Build/HUAWEILIO-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 JsSdk/3.0 automobile/6.0.4 NetType/4g
-Mozilla/5.0 (Linux; Android 10; HLK-AL10 Build/HONORHLK-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.1 SP-engine/2.24.0 baiduboxapp/12.1.0.10 (Baidu; P1 10) NABar/1.0
-Mozilla/5.0 (Linux; U; Android 10; zh-cn; PBCT10 Build/QKQ1.191224.003) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 HeyTapBrowser/40.7.2.9
-Mozilla/5.0 (Linux; Android 10; SM-G9810 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/11.25 SP-engine/0.0.0 lite baiduboxapp/4.21.5.10 (Baidu; P1 10)
-Mozilla/5.0 (Linux; Android 9; V1913T Build/P00610; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.1 SP-engine/2.24.0 baiduboxapp/12.1.0.10 (Baidu; P1 9) NABar/1.0
-Mozilla/5.0 (Linux; Android 7.1.2; vivo X9i Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/5.5.4.5
-Mozilla/5.0 (Linux; Android 7.1.2; vivo X9i Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 chrome/62.0.3202.84Mobile Safari/537.36 VivoBrowser/5.5.4.5
-Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5 Plus Build/N2G47H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.2 SP-engine/2.24.0 baiduboxapp/12.2.0.12 (Baidu; P1 7.1.2) NABar/1.0
-Mozilla/5.0 (Linux; Android 8.0.0; FLA-AL10 Build/HUAWEIFLA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.2 SP-engine/2.24.0 baiduboxapp/12.2.0.12 (Baidu; P1 8.0.0) NABar/1.0
-Mozilla/5.0 (Linux; Android 8.1.0; BLA-AL00 Build/HUAWEIBLA-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 T7/12.1 swan/2.24.0 swan-baiduboxapp/12.1.0.10 baiduboxapp/12.1.0.10 (Baidu; P1 8.1.0)
-Mozilla/5.0 (Linux; Android 10; EVR-AL00 Build/HUAWEIEVR-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.12
+Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/9.6 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 7.1.1; zh-cn; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/10.5.1.2
+Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 360 Alitephone Browser (1.5.0.90/1.0.100.1078) mso_sdk(1.0.0)
+Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.116 Mobile Safari/537.36 T7/9.1 baidubrowser/7.19.13.0 (Baidu; P1 7.1.1)
