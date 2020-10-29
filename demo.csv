@@ -1,6 +1,6 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot,xxxxx,亂數公式,"xxxx=RANDBETWEEN(11,77)"
-https://projectademo.github.io/demo/demo_ua.txt,B,永逢綠建材,https://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-efcl.txt,33~44,38,Y,N,32,,
-https://projectademo.github.io/demo/demo_ua.txt,Y,公司制服,https://www.660880.com.tw/ec99/rwd1136/category.asp?category_id=662,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-660880.txt,33~44,38,Y,N,57,,
+https://projectademo.github.io/demo/demo_ua.txt,G,永逢綠建材,https://www.efcl.com.tw/,2,8~12,3~4,5~8,https://projectademo.github.io/demo/url-efcl.txt,33~44,38,Y,N,32,,
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.660880.com.tw/ec99/rwd1136/category.asp?category_id=662,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-660880.txt,33~44,38,Y,N,57,,
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒,http://www.dachien.com.tw/center_babymaker/service.php?id=3,4,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,74,,
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒,https://www.brcivf.com/ec99/ivf/category.asp?category_id=2,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,19,,
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服,https://www.shinkong-co.com.tw/,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N,14,,
