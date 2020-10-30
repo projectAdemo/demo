@@ -1,5 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot,xxxxx,亂數公式,"xxxx=RANDBETWEEN(11,77)"
-https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒,https://www.brcivf.com/ec99/ivf/category.asp?category_id=2,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,19,,
+https://projectademo.github.io/demo/demo_ua.txt,G,隔熱紙,https://www.brcivf.com/ec99/ivf/category.asp?category_id=2,3,8~12,3~4,5~8,https://projectademo.github.io/demo/url-brcivf.txt,33~44,38,Y,N,19,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://tw.mall.yahoo.com/%E5%A5%B3%E8%A5%AA-%E8%A5%AA%E5%AD%90-152982008-category.html,5,8~12,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,42,,
 https://projectademo.github.io/demo/demo_ua.txt,G,襪子,https://m.momoshop.com.tw/category.momo?cn=1403300000,5,8~12,2~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,33,Y,N,62,,
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款,https://www.check-loan.com.tw/index.html,5,8~12,3~4,5~8,https://projectademo.github.io/demo/url-blank.txt,33~44,38,Y,N,18,,
