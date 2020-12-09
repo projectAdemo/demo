@@ -1,5 +1,4 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.shinkong-co.com.tw/,4,8~12,4~5,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,http://www.emeishop.com.tw/index_tw.php,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,http://www.holeey.com.tw/,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,http://www.maple88.com.tw/,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,N
@@ -17,3 +16,4 @@ https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.yuanysang.com.tw/,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.ti88.com.tw/,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,https://www.ti88.com.tw/,5,3~4,2~4,2~3,https://projectademo.github.io/demo/url-blank.txt,11~12,38,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,公司制服訂做,xxxxhttps://www.shinkong-co.com.tw/,4,8~12,4~5,5~8,https://projectademo.github.io/demo/url-shinkong.txt,33~44,38,Y,N
