@@ -1,8 +1,8 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,超耐磨地板,https://www.haroflooring.com.tw,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,超人氣購物袋,https://www.tisdis.com.tw,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,內褲透氣清爽,https://www.sf.com.tw/product-list.aspx?pid=3,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,中醫減重不易復胖,https://www.vitality-up.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,超耐磨地板,https://haroflooring.com.tw/ec99/rwd1315/Category.asp?category_id=14,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,超人氣購物袋,https://www.tisdis.com.tw/ec99/Plastic-bag/shopping-bag.asp,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,內褲透氣清爽,https://www.sf.com.tw/product-list.aspx?pid=3,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,不孕症治療與檢查,https://www.loveivfbaby.com/ec99/ivf-baby/category.asp?category_id=10,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣空調工程,https://www.toongshuay.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,真空袋製造廠,https://www.vacuum-bag.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-blank.txt,66~99,66,Y,N
