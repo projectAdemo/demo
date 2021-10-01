@@ -1,5 +1,6 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
 https://projectademo.github.io/demo/demo_ua.txt,G,可分解環保塑膠袋介紹,https://www.tisdis.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-tisdis.txt,66~99,666,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,牛排館宵夜,https://www.apointsteak.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-apoint.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,針狀軸承介紹,https://www.lcbearing.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-bearing.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,婚禮歐式帳篷,https://www.phoenixx.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-tent.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,支票融資,https://www.chimeimoney.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-chimei.txt,66~99,666,Y,N
@@ -8,6 +9,7 @@ https://projectademo.github.io/demo/demo_ua.txt,G,支票借款快速審核,https
 https://projectademo.github.io/demo/demo_ua.txt,G,不孕症治療檢查,https://www.loveivfbaby.com,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-love.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,內褲透氣清爽,https://www.sf.com.tw,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-sf.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,男士理髮廳,https://www.timsfantasyworld.com/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-tim.txt,66~99,666,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,牛排館推薦五顆星,https://www.apointsteak.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-apoint.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣空調工程,https://www.toongshuay.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-toong.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,軸承研發公司,https://www.lcbearing.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-bearing.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款流程評估為何,https://www.0225947722.com.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-7722.txt,66~99,666,Y,N
@@ -18,7 +20,6 @@ https://projectademo.github.io/demo/demo_ua.txt,G,真空袋新款,https://www.va
 https://projectademo.github.io/demo/demo_ua.txt,G,台北皇家按摩,https://www.taipei-massage-spa.com/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-spa.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,電動沙發款式,https://www.lorenzo.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-lorenzo.txt,66~99,28800,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,3,4~6,2~3,3~4,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,N
