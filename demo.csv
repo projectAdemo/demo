@@ -1,5 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/ua-iphone.txt,G,清潔劑,http://www.xxxxraincolorumbrella.com/,3,8~12,3~4,1~2,https://projectademo.github.io/demo/url-blank.txt,8~11,1200,Y,N
+https://projectademo.github.io/demo/iphone.txt,G,清潔劑,http://www.xxxxraincolorumbrella.com/,3,8~12,3~4,1~2,https://projectademo.github.io/demo/url-blank.txt,8~11,1200,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,https://www.umbrellaking.tw/,2,8~12,3~4,1~2,https://projectademo.github.io/demo/url-blank.txt,8~11,244,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,https://www.hoswa.com.tw/,2,8~12,3~4,1~2,https://projectademo.github.io/demo/url-blank.txt,8~11,244,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,https://loverain.com.tw/,2,8~12,3~4,1~2,https://projectademo.github.io/demo/url-blank.txt,8~11,244,Y,N
