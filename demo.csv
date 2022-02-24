@@ -1,4 +1,9 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,G,隱藏式舌側矯正,https://www.top-ortho.tw/,1,8~12,3~4,3~4,https://projectademo.github.io/demo/url-ortho.txt,22~44,12000,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,3~4,https://projectademo.github.io/demo/url-zhou.txt,22~44,12000,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~44,1200,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~66,1200,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~66,1200,Y,Y
 https://projectademo.github.io/demo/ua-nextpage.txt,G,試管嬰兒補助流程說明,https://www.loveivfbaby.com/,2,8~12,3~4,3~5,https://projectademo.github.io/demo/url-love.txt,22~66,188,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,空壓機設備,https://www.antsai.com.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-compressor.txt,66~99,188,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,支票借款快速審核,https://www.0225947722.com.tw/,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-7722.txt,22~66,188,Y,N
@@ -7,11 +12,6 @@ https://projectademo.github.io/demo/ua-nextpage.txt,G,襪子,https://www.sf.com.
 https://projectademo.github.io/demo/ua-nextpage.txt,G,歐式帳篷,https://www.phoenixx.com.tw/ec99/rwd1015/category.asp?category_id=70,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-tent.txt,22~66,188,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,襪,https://www.sf.com.tw/mobile/product-list.aspx?pid=1,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-sf.txt,22~66,188,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款周轉關鍵,https://www.0225947722.com.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-7722.txt,66~99,188,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,隱藏式舌側矯正,https://www.top-ortho.tw/,1,8~12,3~4,3~4,https://projectademo.github.io/demo/url-ortho.txt,22~44,188,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,3~4,https://projectademo.github.io/demo/url-zhou.txt,22~44,188,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~44,188,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~66,188,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-ortho.txt,22~66,188,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒,https://www.brcivf.com,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-brcivf.txt,22~66,188,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,內褲,https://www.sf.com.tw,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-boxer.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,xxxxxhttps://www.sf.com.tw/,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-umbrella.txt,22~66,122,Y,N
