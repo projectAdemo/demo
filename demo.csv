@@ -1,6 +1,6 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/ua-nextpage.txt,G,台中試管嬰兒,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,66~99,333,Y,N
-https://projectademo.github.io/demo/ua-nextpage.txt,G,Tim's Fantasy World,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,66~99,333,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,台中試管嬰兒,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,66~99,333,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,Tim's Fantasy World,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,艾朋牛排館,https://www.apointsteak.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-apoint.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,Y,歐蘭朵潛意識,https://www.orlandoscs.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-orlandoscs.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,鳳凰歐式帳篷,https://www.phoenixx.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tent.txt,66~99,333,Y,N
