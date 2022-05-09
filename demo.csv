@@ -1,8 +1,9 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,G,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-zhou.txt,33~55,120000,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,120000,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,tim's haircut,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,不孕症治療2022,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,歐蘭朵潛意識,https://www.orlandoscs.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-orlandoscs.txt,33~55,333,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-zhou.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒2022,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,艾朋牛排館peko,https://www.apointsteak.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-apoint.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,設計師 男仕理髮,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,33~55,333,Y,N
@@ -12,7 +13,6 @@ https://projectademo.github.io/demo/demo_ua.txt,G,隱藏式舌側矯正,https://
 https://projectademo.github.io/demo/demo_ua.txt,G,牛排館tripadvisor,https://www.apointsteak.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-apoint.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,B,歐蘭朵阿卡西紀錄,https://www.orlandoscs.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-orlandoscs.txt,66~99,666,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,B,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-zhou.txt,66~99,666,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,1200,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,巧聖牙醫,https://www.top-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,1200,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,空壓機設備,https://www.antsai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-compressor.txt,66~99,188,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,支票借款快速審核,https://www.0225947722.com.tw/,2,8~12,3~4,7~9,https://projectademo.github.io/demo/url-7722.txt,66~99,188,Y,N
