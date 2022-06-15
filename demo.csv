@@ -1,11 +1,12 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,小步驟大改造型男最潮配備,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,33~55,333,Y,N
+https://projectademo.github.io/demo/ua-nextpage.txt,G,SUS316不鏽鋼軸承,https://www.lcbearing.com.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-bearing.txt,22~66,222,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,信義區絕佳牛排館,https://www.apointsteak.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-apoint.txt,33~55,222,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,小步驟大改造型男最潮配備,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,33~55,222,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,台中不孕症治療,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,222,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,隱藏式舌側矯正,https://www.top-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,1800,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,B,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-zhou.txt,66~99,1800,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,不孕症治療2022,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,頌缽能量調理,https://www.orlandoscs.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-orlandoscs.txt,66~99,333,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,試管嬰兒2022,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,333,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,艾朋牛排館peko,https://www.apointsteak.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-apoint.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,設計師 男仕理髮,https://www.timsfantasyworld.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-tim.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,周泰建設營造,https://www.zhou-tai.com.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-zhou.txt,66~99,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,隱藏式舌側矯正,https://www.top-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,333,Y,N
@@ -25,7 +26,6 @@ https://projectademo.github.io/demo/demo_ua.txt,G,鳳凰歐式帳篷,https://www
 https://projectademo.github.io/demo/ua-nextpage.txt,G,內褲,https://www.sf.com.tw,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-boxer.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,xxxxxhttps://www.sf.com.tw/,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-umbrella.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,傘,xxxxxhttps://www.sf.com.tw/,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-umbrella.txt,22~66,122,Y,N
-https://projectademo.github.io/demo/ua-nextpage.txt,G,軸承,https://www.lcbearing.com.tw/,2,8~12,3~4,3~5,https://projectademo.github.io/demo/url-bearing.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,軸承,https://www.lcbearing.com.tw/,2,8~12,3~4,3~5,https://projectademo.github.io/demo/url-blank.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,grohe,https://www.goldenstyle.com.tw/,2,8~12,3~4,2~5,https://projectademo.github.io/demo/url-goldenstyle.txt,22~66,122,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,kohler,https://www.goldenstyle.com.tw/,2,8~12,3~4,3~5,https://projectademo.github.io/demo/url-goldenstyle.txt,22~66,122,Y,N
