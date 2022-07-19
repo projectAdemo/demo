@@ -1,4 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,G,牙齒矯正,https://www.xxxxxtop-ortho.tw/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-ortho.txt,66~99,1800000,Y,Y
 https://projectademo.github.io/demo/ua-nextpage.txt,G,SPB固體潤滑軸承,https://www.lcbearing.com.tw/,1,8~12,3~4,3~5,https://projectademo.github.io/demo/url-bearing.txt,22~66,333,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,胚胎室進行體外授精,https://www.loveivfbaby.com/,1,8~12,3~4,7~9,https://projectademo.github.io/demo/url-love.txt,33~55,333,Y,N
 https://projectademo.github.io/demo/ua-nextpage.txt,G,電動進口沙發,https://www.lorenzo.tw,1,8~12,3~4,2~5,https://projectademo.github.io/demo/url-lorenzo.txt,22~66,333,Y,N
