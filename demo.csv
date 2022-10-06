@@ -1,5 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,Y,大溪住宿,xxxxxhttps://www.daxisiji.com/,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daxi.txt,66~99,33,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,B,大溪住宿,xxxxxhttps://www.daxisiji.com/,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daxi.txt,66~99,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,一次看懂汽車借款陷阱,xxxxxhttps://check-loan.tw/car-loan-trap/,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-checkloan.txt,66~99,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,B,一次看懂汽車借款陷阱,https://check-loan.tw/car-loan-trap/,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-checkloan.txt,66~99,33,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,一次看懂汽車借款陷阱,https://check-loan.tw/car-loan-trap/,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-checkloan.txt,66~99,33,Y,N
