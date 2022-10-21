@@ -1,5 +1,11 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,http://teco-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.com.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站,http://service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-service-center-tw-com.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元服務站,http://teco.i-services.com.tw,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-i-services-com-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-service-center-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站,http://service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-service-center-tw-com.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,東元服務站,http://teco.i-services.com.tw,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-i-services-com-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco-service-center-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-tainan.txt,11~22,11,Y,N
