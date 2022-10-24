@@ -1,13 +1,13 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,因為便利，國際牌家電維修服務中心人們常常,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,"未保養清洗,國際牌家電維修服務中心熱交換效率",panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,"有異味,LG家電維修站小心",lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,"有異味,LG家電維修站小心",lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,"特別注意了,禾聯家電維修服務中心 常發生",heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,因為便利國際牌家電維修服務中心人們常常,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,未保養清洗國際牌家電維修服務中心熱交換效率,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,有異味LG家電維修站小心,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,有異味LG家電維修站小心,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,特別注意了禾聯家電維修服務中心常發生,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,各區服務據點查詢電話0227820575,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,各區服務據點查詢電話0227820575,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,售後維修服務-全台據點專線電話 0800201599,samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,"特別注意了,三星家電維修服務中心 常發生",samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,售後維修服務全台據點專線電話 0800201599,samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,特別注意了三星家電維修服務中心 常發生,samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,新北市各區維修服務專線電話 0289942294,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,"特別注意了,惠而浦家電維修服務中心 常發生冷",whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,特別注意了惠而浦家電維修服務中心 常發生冷,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool.companyservice-tw.txt,11~22,11,Y,N
