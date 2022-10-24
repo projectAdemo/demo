@@ -1,8 +1,13 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
 https://projectademo.github.io/demo/demo_ua.txt,G,乾淨的問題國際牌服務站電話,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,乾淨的問題國際牌服務站電話,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,"有異味,LG家電維修站小心",lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,"有異味,LG家電維修站小心",lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,禾聯服務站,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,各區服務據點查詢電話0227820575,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,各區服務據點查詢電話0227820575,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,售後維修服務-全台據點專線電話 0800201599,samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,售後維修服務-全台據點專線電話 0800201599,samsung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,全台維修惠而浦家電服務電話0800000563,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,全台維修惠而浦家電服務電話0800000563,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool.companyservice-tw.txt,11~22,11,Y,N
