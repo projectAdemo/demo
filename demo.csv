@@ -1,13 +1,13 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,道路用地收購-道路用地買賣,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi.taiwancompany-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,生活中就日立家電維修中心,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購-道路用地買賣,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站-全台家電,https://panasonic.companyservice-tw.com/aboutus.asp?promoteid=100001,%20100001&channelid=2&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站-全台家電,https://panasonic.companyservice-tw.com/aboutus.asp?promoteid=100001,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,冰箱調整溫度國際牌服務站是一個非常,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,有異味LG家電維修站小心,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,有異味LG家電維修站小心,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾淨東元服務站電話當你在,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,衣服洗不乾淨東元服務站電話當你在,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi.taiwancompany-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,生活中就日立家電維修中心,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾淨三洋服務站電話當你在,sanyo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo.companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,衣服洗不乾淨三洋服務站電話當你在,sanyo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo.companyservice-tw.txt,11~22,11,Y,N
