@@ -1,3 +1,4 @@
-https://machine.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=118
-https://machine.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=2&Lang=tw&id=122
-https://machine.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=2&Lang=tw&id=127
+https://machine.servicecenter-tw.com/Aboutus.asp?promoteid=100001&Channelid=271&lang=tw
+https://machine.servicecenter-tw.com/Aboutus.asp?promoteid=100001&Channelid=272&lang=tw
+https://machine.servicecenter-tw.com/Aboutus.asp?promoteid=100001&Channelid=273&lang=tw
+https://machine.servicecenter-tw.com/Aboutus.asp?promoteid=100001&Channelid=274&lang=tw
