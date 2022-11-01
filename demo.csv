@@ -1,9 +1,10 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=276&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站-全台家電,panasonic.companyservice-tw.com/aboutus.asp?promoteid=100001,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌服務站全台據點,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,LG家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,LG服務站-售後維修服務全省地址電話0289859002,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,有異味LG家電維修站小心,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,lg服務站全台據點,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾淨東元服務站電話當你在,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,生活中就日立家電維修中心,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice-tw.txt,11~22,11,Y,N
@@ -27,6 +28,12 @@ https://projectademo.github.io/demo/demo_ua.txt,Y,家電維修維修家電全台
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣維修全台到府統一派修專線電話,machine.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machine-servicecenter-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,machine.servicecenter-tw.com,machine.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machine-servicecenter-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,道路用地買賣,frigidaire.elect-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frigidaire-elect-service-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,frigidaire.elect-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frigidaire-elect-service-tw.txt,11~22,11,Y,Y
-https://projectademo.github.io/demo/demo_ua.txt,G,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,frigidaire.elect-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frigidaire-elect-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,維修冰箱冰箱維修全省到府統一派修專線,www.fridge-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-fridge-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,維修冰箱冰箱維修全省到府統一派修專線,www.fridge-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-fridge-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,維修洗衣機洗衣機維修-全省到府維修服務電話,www.wash-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-wash-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,洗衣機維修家電全省到府統一派修專線,www.wash-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-wash-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,維修冷家電維修服務電話,www.ac-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-ac-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,維修冷氣家電維修服務電話,www.ac-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-ac-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,維修液晶電視液晶電視維修服務到家,www.tv-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-tv-service-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,維修液晶電視液晶電視維修服務到家,www.tv-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-tv-service.tw-.txt,11~22,11,Y,Y
