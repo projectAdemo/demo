@@ -1,27 +1,27 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌服務站全台據點,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,LG家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,LG服務站-售後維修服務全省地址電話0289859002,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾淨東元服務站電話當你在,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站各區服務據點,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,生活中就日立家電維修中心,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,日立服務站全台據點,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾淨三洋服務站電話當你在,sanyo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三洋服務站售後服務專線,sanyo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,衣服洗不乾聲寶服務站電話,sampo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶服務站全台據點,sampo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,禾聯家電維修服務站日常生活中就可以自主,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大同家電維修服務站日常生活,tatung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,大同服務站,tatung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦家電維修服務站日常生活,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦服務站,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,幾種現象大金服務站全台據點冷氣使用,daikin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,大金服務站,daikin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,幾種現象歌林服務站全台據點冷氣使用,kolin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,歌林服務站全台據點,kolin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,都是高危險群日立家電維修,hitachi.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,國際牌專員到現場維修記錄評語,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,洗衣機的震動與噪音國際牌服務站售後服務專線,panasonic.companyservice-tw.com/index.asp,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,冰箱上下層冰箱不冷LG家電維修服務站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,洗衣機如何才能洗出健康?LG洗衣機維修中心,sanyo.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=271&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,當梅雨季節或溫度高的時候.東元維修站,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元維修站 淡水張先生,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,近年來日立家電維修站嬰幼兒罹患,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,日立家電維修服務站 八里何經理,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三洋家電維修  三重陳小姐,"sanyo.companyservice-tw.com/aboutus.asp?promoteid=100001,%20100001,%20100001,%20100001,%20100001,%20100001,%20100001&channelid=271&Lang=tw&id=118",3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,三洋冰箱維修中心 鶯歌許先生,sanyo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,聲寶服務站各區服務據點  新店陳太太,sampo.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=272&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶冷氣維修服務站 五股唐先生,sampo.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,洗衣機如何才能洗出健康?禾聯洗衣機維修中心,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站各區服務據點 新店陳太太,heran.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,告訴您洗衣機如何正確使用大同維修站,tatung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,大同服務站全台據點 永和曾小姐,tatung.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,冰箱下層不冷惠而浦家電維修站,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦維修站 淡水張先生,whirlpool.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,大金冷氣維修服務站 五股唐先生,daikin.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=272&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,大金冷氣維修服務站 五股唐先生,daikin.companyservice-tw.com/index.asp,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,歌林家電維修服務站 八里何經理,kolin.companyservice-tw.com/aboutus.asp?promoteid=100001&channelid=272&lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,歌林家電維修站 新莊陳先生,kolin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,家電維修維修家電全台到府派修專線電話,machine.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machine-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,家電維修維修家電全台到府派修專線電話,machine.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machine-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣維修全台到府統一派修專線電話,machine.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machine-servicecenter-tw.txt,11~22,11,Y,N
@@ -29,4 +29,4 @@ https://projectademo.github.io/demo/demo_ua.txt,Y,machine.servicecenter-tw.com,m
 https://projectademo.github.io/demo/demo_ua.txt,G,道路用地買賣,frigidaire.elect-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frigidaire-elect-service-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,frigidaire.elect-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frigidaire-elect-service-tw.txt,11~22,11,Y,Y
 https://projectademo.github.io/demo/demo_ua.txt,G,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,Y
