@@ -1,5 +1,5 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=285,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,日常生活中就日立家電維修中心可以自主管理,hitachi.companyservice-tw.com/Aboutus.asp?promoteid=100001&amp;Channelid=285&amp;lang=tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-taiwancompany-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,fujide.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站-全台家電,panasonic.companyservice-tw.com/aboutus.asp?promoteid=100001,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujide-companyservice-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌服務站全台據點,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice-tw.txt,11~22,11,Y,N
