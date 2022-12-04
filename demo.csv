@@ -1,9 +1,9 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,服務檢測維修國際牌服務站新北市,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic.companyservic1-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,服務檢測維修國際牌服務站新北市,www.elect-service-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www.elect-service-tw1.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,冰箱下層不冷lg家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice1-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,冰箱下層不冷lg家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg.companyservice1-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,服務建議東元冰箱維修站,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco.companyservice1-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,服務檢測維修國際牌服務站新北市,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservic1-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,服務檢測維修國際牌服務站新北市,www.elect-service-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-elect-service-tw1.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,冰箱下層不冷lg家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice1-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,冰箱下層不冷lg家電維修站,lg.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyservice1-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,服務建議東元冰箱維修站,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco- companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,服務建議東元冰箱維修站,teco.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,告訴您洗衣機如何正確使用日立維修站,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,告訴您洗衣機如何正確使用日立維修站,hitachi.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyservice1-tw.txt,11~22,11,Y,N
@@ -20,7 +20,7 @@ https://projectademo.github.io/demo/demo_ua.txt,Y,服務建議惠而浦冰箱維
 https://projectademo.github.io/demo/demo_ua.txt,G,安裝冷氣時須注意的要點大金冷氣維修中心,daikin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,安裝冷氣時須注意的要點大金冷氣維修中心,daikin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,冷氣顯示燈會閃爍歌林冷氣維修中心,kolin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice1-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,冷氣顯示燈會閃爍歌林冷氣維修中心,kolin.companyservice-tw.com                                                                                                                                                                                             ,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice1-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,冷氣顯示燈會閃爍歌林冷氣維修中心,kolin.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyservice1-tw.txt,11~22,11,Y,N                                                                                                                                                                                             
 https://projectademo.github.io/demo/demo_ua.txt,G,國際牌維修中心電話,panaic.taiwancompany-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panaic-taiwancompany1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌維修中心電話,panasonic.companyservice-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyservice1-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元維修中心,teco.i-services.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-i-services1-tw.txt,11~22,11,Y,N
