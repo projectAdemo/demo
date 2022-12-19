@@ -1,2 +1,3 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
 https://projectademo.github.io/demo/demo_ua.txt,Y,全台三洋維修服務電話,sanyo.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-servicecenterA-tw,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,東元維修站-全台維修家電,teco.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-servicecenterA-tw,11~22,11,Y,N
