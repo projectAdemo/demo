@@ -1,12 +1,12 @@
 ﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
 https://projectademo.github.io/demo/demo_ua.txt,Y,全台三洋維修服務電話,sanyo.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元維修站-全台維修家電,teco.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-servicecenterA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,聲寶維修站-全省服務中心,sampo.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶維修站-全省服務中心,sampo.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,大同維修站-全台維修,tatung.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-servicecenterA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌維修站-全台維修家電,panaic.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panaic-servicecenteA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌維修站-全台維修家電,panaic.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panaic-servicecenteA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,日立維修站-全台維修家電,hitachi.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-servicecenterA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,禾聯維修站-全台維修家電,heran.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯維修站-全台維修家電,heran.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,歌林維修站-全台維修家電,kolin.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-servicecenterA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,LG維修站-全台維修家電,lg.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LG-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,LG維修站-全台維修家電,lg.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LG-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦維修站-全台維修家電,whirlpool.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-servicecenterA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大金維修站-全台維修家電,daikin.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,大金維修站-全台維修家電,daikin.servicecenter-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-servicecenterA-tw.txt,11~22,11,Y,N
