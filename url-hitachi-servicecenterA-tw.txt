@@ -1,3 +1,2 @@
-hitachi.servicecenter-tw.com
+http://hitachi.servicecenter-tw.com/
 https://hitachi.servicecenter-tw.com/Aboutus.asp?promoteid=100001&Channelid=166&lang=tw
-http://hitachi.companyservice-tw.com/Aboutus.asp?promoteid=100001&Channelid=277&lang=tw
