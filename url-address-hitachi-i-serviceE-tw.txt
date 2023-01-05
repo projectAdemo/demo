@@ -1,3 +1,2 @@
-http://address.hitachi.i-service.tw/ec99/ushop1016/ShowCategory.asp?category_id=58
-http://address.hitachi.i-service.tw/ec99/ushop1016/ShowCategory.asp?category_id=59
-http://address.hitachi.i-service.tw/ec99/ushop1016/ShowCategory.asp?category_id=61
+http://address.hitachi.i-service.tw/ec99/ushop1016/ShowCategory.asp?category_id=71
+http://address.hitachi.i-service.tw/ec99/ushop1016/ShowCategory.asp?category_id=63
