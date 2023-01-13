@@ -1,3 +1,4 @@
-http://apton.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=136
-http://apton.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=126
-http://apton.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=138
+
+https://apton.companyservice-tw.com/aboutus.asp?promoteid=100001&channelid=2&Lang=tw&id=122
+https://apton.companyservice-tw.com/aboutus.asp?promoteid=100001&channelid=2&Lang=tw&id=138
+https://apton.companyservice-tw.com/aboutus.asp?promoteid=100001&channelid=2&Lang=tw&id=123
