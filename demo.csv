@@ -1,23 +1,2 @@
 User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,日立家電維修服務站全台各區據點電話,hitachi.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,日立家電維修服務站全台各區據點電話,hitachi.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三洋家電維修服務站全台各區據點電話,sanyo.companyservice-tw.comtw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三洋家電維修服務站全台各區據點電話,sanyo.companyservice-tw.comtw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌家電維修服務站全台各區據點電話,panasonic.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌家電維修服務站全台各區據點電話,panasonic.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,東元家電維修服務站全台各區據點電話,teco.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,東元家電維修服務站全台各區據點電話,teco.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,聲寶家電維修服務站全台各區據點電話,sampo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶家電維修服務站全台各區據點電話,sampo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,LG家電維修服務站全台各區據點電話,lg.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,LG家電維修服務站全台各區據點電話,lg.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,歌林家電維修服務站全台各區據點電話,kolin.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,歌林家電維修服務站全台各區據點電話,kolin.companyservice-tw.comcom,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦家電維修服務站全台各區據點電話,whirlpool.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦家電維修服務站全台各區據點電話,whirlpool.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,禾聯家電維修服務站全台各區據點電話,heran.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯家電維修服務站全台各區據點電話,heran.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大同家電維修服務站全台各區據點電話,tatung.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,大同家電維修服務站全台各區據點電話,tatung.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三星家電維修服務站全台各區據點電話,samsung.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三星家電維修服務站全台各區據點電話,samsung.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsung-companyserviceA-tw.txt,11~22,11,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,Y,三洋服務站,everytime-service.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-everytime-serviceA-tw.txt,11~22,11,Y,N
