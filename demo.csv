@@ -1,16 +1,21 @@
-ï»¿User Agent æ¸…å–®,YYY,KW,URL,æœå°‹çµæœé æ•¸ä¸Šé™,æœå°‹çµæœé åœç•™ç§’æ•¸,æœå°‹çµæœé æ²å‹•å›æ•¸,ç›®æ¨™ç¶²ç«™é–‹é é¢æ•¸é‡,URL-list,ç¶²ç«™å…§é€£çµç­‰å€™ç§’æ•¸,hang-up,çµæŸå¾Œæ›IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,Y,æ—¥ç«‹æœå‹™ç«™,service-hid.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-service-hidA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,æ±å…ƒæœå‹™ç«™,www.taiwan-teco.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-taiwan-tecoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,è²å¯¶æœå‹™ç«™,go-sampo.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-go-sampoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,ä¸‰æ´‹æœå‹™ç«™,taiwan-sanyo.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-taiwan-sanyoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,æ­Œæ—æœå‹™ç«™,www.geling.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-gelingA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,å¤§åŒæœå‹™ç«™,www.tatung-serve.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-tatung-serveA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,lgæœå‹™ç«™,www.tw-lg.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-tw-lgA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,æƒ è€Œæµ¦æœå‹™ç«™,www.whirlpool-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-whirlpool-serviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,ç¦¾è¯æœå‹™ç«™,i-heran.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-i-heranA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,å¤§é‡‘æœå‹™ç«™,daikin-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-serviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,åœ‹éš›ç‰Œæœå‹™ç«™,service-pa.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-service-paA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,ç¦¾è¯æœå‹™ç«™,heran-web.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-webA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,è¯è±å†·æ°£ç¶­ä¿®,www.home-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-home-service1A-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,èæ™®ç¾…å†·æ°£ç¶­ä¿®,www.home-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-home-service2A-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,å†°é»å†·æ°£ç¶­ä¿®,www.home-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-home-service3A-tw.txt,11~22,11,Y,Y
+User Agent ²M³æ,YYY,KW,URL,·j´Mµ²ªG­¶¼Æ¤W­­,·j´Mµ²ªG­¶°±¯d¬í¼Æ,·j´Mµ²ªG­¶±²°Ê¦^¼Æ,¥Ø¼Ğºô¯¸¶}­¶­±¼Æ¶q,URL-list,ºô¯¸¤º³sµ²µ¥­Ô¬í¼Æ,hang-up,µ²§ô«á´«IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolinSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolinA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LGSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LGA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampoSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampoA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsungSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsungA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,¤é¥ßªA°È¯¸¦U°ÏªA°È¹q¸Ü,all-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonicSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,ºû­×°ê»ÚµP®a¹q¬d¸ß¹q¸Ü,service-all.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonicA-tw.txt,11~22,11,Y,Y
