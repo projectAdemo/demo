@@ -1,2 +1,3 @@
-https://lg.servicecenter-tw.com
-http://lg.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=127
+https://fujimaru.servicecenter-tw.com
+https://taiyo.servicecenter-tw.com
+https://venus.servicecenter-tw.com

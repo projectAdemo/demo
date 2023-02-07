@@ -1,2 +1,3 @@
-https://kolin.servicecenter-tw.com
-http://kolin.servicecenter-tw.com/aboutus.asp?promoteid=100001&channelid=257&Lang=tw&id=126
+https://tacico.servicecenter-tw.com
+https://machine.servicecenter-tw.com
+https://elect.servicecenter-tw.com
