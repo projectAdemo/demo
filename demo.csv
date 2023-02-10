@@ -1,28 +1,28 @@
 User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,萬士益冷氣維修服務站電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,萬士益冷氣維修服務站電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,艾普頓冷氣維修服務站電話,apton.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,莎普羅冷氣維修服務站電話,saporo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,莎普羅冷氣維修服務站電話,saporo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,華菱冷氣維修服務站電話,hawrin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,維修冷氣,www.ac-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,維修洗衣機,www.wash-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,維修冰箱,www.fridge-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolinSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,維修電視,www.tv-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolinA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,道路用地收購,frigidaire.elect-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LGSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,道路用地收購,frigidaire.elect-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LGSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,大金維修站服務電話,daikin.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-LGA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,禾聯維修站服務電話,heran-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampoSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯維修站服務電話,heran-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampoSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦維修站服務電話,whirlpool-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,lg維修站服務電話,lg.go-serviceonline.com ,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsungSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,lg維修站服務電話,lg.go-serviceonline.com ,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsungSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,大同維修站服務電話,www.tatung-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-samsungA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,歌林維修站服務電話,list.kolin-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,歌林維修站服務電話,list.kolin-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,三洋維修站服務電話,address.sanyo.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,聲寶維修站服務電話,sampo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶維修站服務電話,sampo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,東元維修站服務電話,list.teco-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,日立維修站服務電話,hitachi.go-serviceonline.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonicSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,日立維修站服務電話,hitachi.go-serviceonline.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonicSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌家電全台維修電話,www.customerservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonicA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,萬士益冷氣維修站服務電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,艾普頓冷氣維修站服務電話,apton.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,艾普頓冷氣維修站服務電話,apton.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,莎普羅冷氣維修站服務電話,saporo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,華菱冷氣維修站服務電話,hawrin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,華菱冷氣維修站服務電話,hawrin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,維修冷氣-冷氣維修服務電話,www.ac-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,洗衣機全省到府維修服務電話,www.wash-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachiA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,維修冰箱維修服務到家,www.fridge-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolinSA-tw.txt,11~22,11,Y,N
