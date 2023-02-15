@@ -1,5 +1,5 @@
 User Agent 清單,GGG,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,,萬士益冷氣維修售後服務電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,萬士益冷氣維修售後服務電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,艾普頓冷氣維修售後服務電話,apton.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chimeiA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,莎普羅冷氣維修售後服務電話,saporo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranSA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,華菱冷氣維修售後服務電話,hawrin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranA-tw.txt,11~22,11,Y,N
