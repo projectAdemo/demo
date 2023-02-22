@@ -1,23 +1,16 @@
-User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,國際牌服務站,www.service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌服務站,www.service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,日立服務站,address.hitachi.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,日立服務站,address.hitachi.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,東元服務站,www.teco-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站,www.teco-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,聲寶服務站,sampo-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶服務站,sampo-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三洋服務站,address.sanyo.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三洋服務站,address.sanyo.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,歌林服務站,address.kolin-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,歌林服務站,kolin-service-center-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大同服務站,address.tatung.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,大同服務站,address.tatung.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,lg服務站,address.lg-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,lg服務站,address.lg-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦服務站,whirlpool-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦服務站,www.whirlpool-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,禾聯服務站,address.heran.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,heran-service-tw.com                                                                                                                                                                                      ,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大金服務站,address.daikin.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,大金服務站,address.daikin.i-service.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-tw.txt,11~22,11,Y,Y
+﻿User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,Y,日立服務站,service-hid.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-service-hidA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站,www.dungyuan.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-taiwan-tecoA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶服務站,www.shengbau.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-go-sampoA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,三洋服務站,sanyo-appliance.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-taiwan-sanyoA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,歌林服務站,www.geling.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-www-gelingA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,大同服務站,tatung-alltaiwan.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatungOA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,lg服務站,www.tw-lg.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lgO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,惠而浦服務站,www.whirlpool-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpoolO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,i-heran.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heranO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,大金服務站,daikin-service.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikinO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,國際牌服務站,service-pa.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-serviceO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,禾聯服務站,heran-web.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-webO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,三洋服務站,sanyo-appliance.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-applianceO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,聲寶服務站,go-sampo.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-go-sampoO-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,東元服務站,www.dungyuan.com.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-dungyuanO-tw.txt,11~22,11,Y,Y
