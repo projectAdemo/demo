@@ -1,105 +1,23 @@
-User Agent 清單,GGG,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,萬士益冷氣維修電話 0800255877,maxe.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-maxeA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,萬士益冷氣維修服務電話,maxe.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-maxeSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,泰陽冷氣維修電話 0800255877,taiyo.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-taiyoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,泰陽冷氣維修服務電話,taiyo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-taiyoSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,維納斯冷氣維修電話 0800255877,venus.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-venusA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,維納斯冷氣維修服務電話,venus.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-venusSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,華菱冷氣維修電話 0800255877,hawrin.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hawrinA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,華菱冷氣維修服務電話,hawrin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hawrinSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,冰點冷氣維修電話 0800255877,frost.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frostA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,冰點冷氣維修服務電話,frost.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-frostSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,中興冷氣維修電話 0800255877,chunghsi.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chunghsiA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,中興冷氣維修服務電話,chunghsi.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chunghsiSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,王牌冷氣維修電話 0800255877,tcl.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tclA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,王牌冷氣維修服務電話,tcl.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tclSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,格力冷氣維修電話 0800255877,gree.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-greeA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,格力冷氣維修服務電話,gree.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-greeSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,開利冷氣維修電話 0800255877,carrier.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-carrierA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,開利冷氣維修服務電話,carrier.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-carrierSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,愛迪生冷氣維修電話 0800255877,edison.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-edisonA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,愛迪生冷氣維修服務電話,edison.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-edisonSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,阿瑪迪斯冷氣維修電話 0800255877,amadus.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-amadusA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,阿瑪迪斯冷氣維修服務電話,amadus.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-amadusSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,藍天冷氣維修電話 0800255877,bluesky.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-blueskyA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,藍天冷氣維修服務電話,bluesky.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-blueskySA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,兄弟冷氣維修電話 0800255877,brother.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-brotherA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,兄弟冷氣維修服務電話,brother.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-brotherSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,資訊家冷氣維修電話 0800255877,gsg.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-gsgA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,資訊家冷氣維修服務電話,gsg.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-gsgSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,可樂娜冷氣維修電話 0800255877,corona.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-coronaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,可樂娜冷氣維修服務電話,corona.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-coronaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,達可冷氣維修電話 0800255877,ducker.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-duckerA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,達可冷氣維修服務電話,ducker.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-duckerSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,福爾摩沙冷氣維修電話 0800255877,formosa.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-formosaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,福爾摩沙冷氣維修服務電話,formosa.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-formosaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,府城冷氣維修電話 0800255877,fuchin.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fuchinA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,府城冷氣維修服務電話,fuchin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fuchinSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,鴻駿冷氣維修電話 0800255877,hongia.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hongiaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,鴻駿冷氣維修服務電話,hongia.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hongiaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三井冷氣維修電話 0800255877,hsanjing.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hsanjingA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三井冷氣維修服務電話,hsanjing.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hsanjingSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,吉淶爾冷氣維修電話 0800255877,jily.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-jilyA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,吉淶爾冷氣維修服務電話,jily.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-jilySA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,九太冷氣維修電話 0800255877,jotai.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-junlingA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,九太冷氣維修服務電話,jotai.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-junlingSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,峻菱冷氣維修電話 0800255877,junling.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-venusA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,峻菱冷氣維修服務電話,junling.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-venusA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三葉冷氣維修電話 0800255877,mitsuba.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mitsubaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,三葉冷氣維修服務電話,mitsuba.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mitsubaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,美的冷氣維修電話 0800255877,midea.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mideaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,美的冷氣維修服務電話,midea.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mideaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,耶力王冷氣維修電話 0800255877,helion.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-helionA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,耶力王冷氣維修服務電話,helion.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-helionSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,稜威福冷氣維修電話 0800255877,newave.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-newaveA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,稜威福冷氣維修服務電話,newave.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-newaveSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,旭光冷氣維修電話 0800255877,tfc.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tfcA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,旭光冷氣維修服務電話,tfc.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tfcSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,新容威冷氣維修電話 0800255877,nlw.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-nlwA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,新容威冷氣維修服務電話,nlw.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-nlwSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,新典冷氣維修電話 0800255877,norn.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-nornA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,新典冷氣維修服務電話,norn.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-nornSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,尚洋冷氣維修電話 0800255877,oceanair.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-oceanairSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,尚洋冷氣維修服務電話,oceanair.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-oceanairA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,王子冷氣維修電話 0800255877,prince.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-princeA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,王子冷氣維修服務電話,prince.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-princeSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,松洋冷氣維修電話 0800255877,songyang.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-songyangA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,松洋冷氣維修服務電話,songyang.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-songyangSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,山水冷氣維修電話 0800255877,sansui.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sansuiA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,山水冷氣維修服務電話,sansui.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sansuiSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,優沙冷氣維修電話 0800255877,uiousha.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-uioushaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,優沙冷氣維修服務電話,uiousha.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-uioushaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,松靜冷氣維修電話 0800255877,songjing.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-songjingA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,松靜冷氣維修服務電話,songjing.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-songjingSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,松格冷氣維修電話 0800255877,sonkor.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sonkorA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,松格冷氣維修服務電話,sonkor.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sonkorSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,松冷冷氣維修電話 0800255877,sonlen.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sonlenA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,松冷冷氣維修服務電話,sonlen.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sonlenSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,安富生冷氣維修電話 0800255877,anfson.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-anfsonA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,安富生冷氣維修服務電話,anfson.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-anfsonSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,松林夏冷氣維修電話 0800255877,summer.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-summerA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,松林夏冷氣維修服務電話,summer.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-summerSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,亞奇諾冷氣維修電話 0800255877,achineo.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-achineoA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,亞奇諾冷氣維修服務電話,achineo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-achineoSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,亞洲冷氣維修電話 0800255877,asia.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-asiaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,亞洲冷氣維修服務電話,asia.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-asiaSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,地中海冷氣維修電話 0800255877,dizhonghai.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-dizhonghaiA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,地中海冷氣維修服務電話,dizhonghai.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-dizhonghaiSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,瀚斯寶麗冷氣維修電話 0800255877,hannspree.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hannspreeA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,瀚斯寶麗冷氣維修服務電話,hannspree.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hannspreeSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,吉星冷氣維修電話 0800255877,chihsing.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chihsingA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,吉星冷氣維修服務電話,chihsing.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-chihsingSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,名隆冷氣維修電話 0800255877,mlon.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mlonA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,名隆冷氣維修服務電話,mlon.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mlonSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,金大阪冷氣維修電話 0800255877,goldosaka.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-goldosakaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,金大阪冷氣維修服務電話,goldosaka.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-goldosakaA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,冷氣維修站服務專線電話,lengqi.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lengqiA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,冷氣維修站服務專線電話,lengqi.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lengqiSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,全台家電維修服務服務電話0800000563,machine-service-tw.co,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machineA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,全台家電維修服務服務電話0800000563,machine-service-tw.co,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-machineSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,宇瑟冷氣維修電話 0800255877,ether.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-etherA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,宇瑟冷氣維修服務電話,ether.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-etherSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,富士丸冷氣維修服務電話,fujimaru.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujimaruSA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,富士丸冷氣維修電話 0800255877,fujimaru.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujimaruA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,富士通冷氣維修電話 0800255877,fujitsu.machine-service-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujitsuA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,Y,富士通冷氣維修服務電話,fujitsu.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-fujitsuSA-tw.txt,11~22,11,Y,Y
+User Agent �M��,YYY,KW,URL,�j�M���G���ƤW��,�j�M���G�����d����,�j�M���G�����ʦ^��,�ؼк����}�����ƶq,URL-list,�������s�����Ԭ���,hang-up,�����ᴫIP,reboot
+https://projectademo.github.io/demo/demo_ua.txt,G,��ڵP�A�ȯ�,www.service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,��ڵP�A�ȯ�,www.service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,��ߪA�ȯ�,address.hitachi.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,��ߪA�ȯ�,address.hitachi.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�F���A�ȯ�,www.teco-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�F���A�ȯ�,www.teco-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�n�_�A�ȯ�,sampo-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�n�_�A�ȯ�,sampo-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�T�v�A�ȯ�,address.sanyo.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�T�v�A�ȯ�,address.sanyo.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�q�L�A�ȯ�,address.kolin-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�q�L�A�ȯ�,kolin-service-center-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�j�P�A�ȯ�,address.tatung.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�j�P�A�ȯ�,address.tatung.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,lg�A�ȯ�,address.lg-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,lg�A�ȯ�,address.lg-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-lg-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�f�Ӯ��A�ȯ�,whirlpool-service-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�f�Ӯ��A�ȯ�,www.whirlpool-service-tw.com,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,���p�A�ȯ�,address.heran.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,���p�A�ȯ�,heran-service-tw.com                                                                                                                                                                                      ,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,�j���A�ȯ�,address.daikin.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,�j���A�ȯ�,address.daikin.i-service.tw,3,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-tw.txt,11~22,11,Y,N
