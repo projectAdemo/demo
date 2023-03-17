@@ -1,2 +1,2 @@
 User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,,名隆冷氣維修,mlon.servicecenter-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mlonA-tw.txt,11~22,33,Y,Y
+https://projectademo.github.io/demo/demo_ua.txt,Y,名隆冷氣維修,mlon.servicecenter-tw.com,2,3~4,3~4,3~4,https://projectademo.github.io/demo/url-mlonA-tw.txt,11~22,33,Y,Y
