@@ -1,5 +1,5 @@
 User Agent 清單,GGG,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,Y,三洋維修站全台三洋家電維修電話,sanyo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceB-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三洋維修站全台三洋家電維修電話,sanyo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceB-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,日立冰箱維修服務電話,hitachi.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-hitachi-companyserviceB-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元冰箱維修服務電話,jily.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-jily-companyserviceB-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,聲寶冰箱維修服務電話,sampo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyserviceB-tw.txt,11~22,11,Y,N
