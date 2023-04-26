@@ -1,5 +1,5 @@
 User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,Y,三洋維修站全台三洋家電維修電話,sanyo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceC-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三洋維修站全台三洋家電維修電話,sanyo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceC-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元家電維修服務電話,jily.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-jily-companyserviceC-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,國際牌家電維修服務電話,panasonic.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-panasonic-companyserviceC-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,大同家電維修服務電話,tatung.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-tatung-companyserviceC-tw.txt,11~22,11,Y,N
