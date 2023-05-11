@@ -1,4 +1,4 @@
 User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒數,搜尋結果頁捲動回數,目標網站開頁面數量,URL-list,網站內連結等候秒數,hang-up,結束後換IP,reboot
-https://projectademo.github.io/demo/demo_ua.txt,G,西屋服務站,address.westinghouse-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-address.westinghouse-service-centerA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,Y,西屋服務站,address.westinghouse-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-address.westinghouse-service-centerA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,西屋服務站,address.westinghouse-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-address.westinghouse-service-centerB-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,西屋服務站,address.westinghouse-service-center.com.tw,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-address.westinghouse-service-centerC-tw.txt,11~22,11,Y,Y
