@@ -2,7 +2,7 @@ User Agent 清單,YYY,KW,URL,搜尋結果頁數上限,搜尋結果頁停留秒�
 https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦家電維修站電話,whirlpool.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-companyserviceA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,惠而浦家電維修站電話,whirlpool.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,三洋家電維修站電話,sanyo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,三洋家電維修站電話,whirlpool.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-whirlpool-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,三洋家電維修站電話,sanyo.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sanyo-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元家電維修站電話,teco.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-companyserviceA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,東元家電維修站電話,teco.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-teco-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,聲寶家電維修站電話,sampo.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-sampo-companyserviceA-tw.txt,11~22,11,Y,N
@@ -14,6 +14,6 @@ https://projectademo.github.io/demo/demo_ua.txt,G,日立家電維修站電話,hi
 https://projectademo.github.io/demo/demo_ua.txt,G,禾聯家電維修站電話,heran.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-companyserviceA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,禾聯家電維修站電話,heran.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-heran-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,大金家電維修站電話,daikin.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-companyserviceA-tw.txt,11~22,11,Y,N
-https://projectademo.github.io/demo/demo_ua.txt,G,大金家電維修站電話,kolin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-servicecenterA-tw.txt,11~22,11,Y,N
+https://projectademo.github.io/demo/demo_ua.txt,G,大金家電維修站電話,daikin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-daikin-servicecenterA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,歌林家電維修站電話,kolin.companyservice-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-companyserviceA-tw.txt,11~22,11,Y,N
 https://projectademo.github.io/demo/demo_ua.txt,G,歌林家電維修站電話,kolin.servicecenter-tw.com,4,3~4,3~4,3~4,https://projectademo.github.io/demo/url-kolin-servicecenterA-tw.txt,11~22,11,Y,Y
